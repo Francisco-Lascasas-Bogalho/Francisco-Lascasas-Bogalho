@@ -6,6 +6,7 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40'>](https://www.w3schools.com/c/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40'>](https://www.w3schools.com/html/)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg' alt='html' height='40'>](https://www.w3schools.com/js/)
 
 ### 🛠️ Tools
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height='30' width='42' alt='git logo'>](https://github.com/)
