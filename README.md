@@ -6,7 +6,7 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40'>](https://www.w3schools.com/c/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40'>](https://www.w3schools.com/html/)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/JavaScript' alt='js' height='40'>](https://www.w3schools.com/js/)
+[<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg' alt='js' height='40'>](https://www.w3schools.com/js/)
 
 ### 🛠️ Tools
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height='30' width='42' alt='git logo'>](https://github.com/)
@@ -14,7 +14,7 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg' alt='trello' height='40'>](https://trello.com/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg' alt='jira' height='40'>](https://www.atlassian.com/software/jira)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40'>](https://code.visualstudio.com/)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongod/MongoDB.svg' alt='vscode' height='40'>](https://www.mongodb.com/)
+[<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg' alt='mongodb' height='40'>](https://www.mongodb.com/)
 
 ### 🔍 Where to find me
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/Francisco-Lascasas-Bogalho/Francisco-Lascasas-Bogalho)
